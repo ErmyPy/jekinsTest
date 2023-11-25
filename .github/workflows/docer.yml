@@ -32,4 +32,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ErmyPy/jenkins-git:latest
+          tags: ermypy/jenkins-git:latest
